@@ -1,2 +1,6 @@
 this is a baguette bread
+<<<<<<< HEAD
 with butter and garlic
+=======
+with butter
+>>>>>>> main
